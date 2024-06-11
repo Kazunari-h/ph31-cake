@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+    // "phpfmt.php_bin": "C:\\xampp\\php\\php.exe",
+    // "phpfmt.php_bin": "/Applications/MAMP/bin/php/php7.4.33/bin/php",
+    "intelephense.environment.phpVersion": "7.4.33",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+}
